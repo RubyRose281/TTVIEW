@@ -105,7 +105,6 @@ if __name__ == "__main__":
     os.system("cls" if os.name == "nt" else "clear"); os.system("title TikTok View BOT" if os.name == "nt" else "")
     txt = """\n         
         TikTok ViewBot Android    
-           |==┣▇▇▇▇▇══─
             By : RubyRose
            A.K.A  MRX281MK
       ==========================
